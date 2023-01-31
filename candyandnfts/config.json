@@ -1,0 +1,20 @@
+{
+  "number": 10,
+  "symbol": "CRAB",
+  "sellerFeeBasisPoints": 100,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "28f2Hm8Ckpsf3rPpux2ZtH4D4JKf3amXJS4g2gU61b6D",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}
